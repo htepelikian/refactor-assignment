@@ -52,7 +52,7 @@
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("/Users/hripsimetepelikian/Desktop/refactor-assignment/images/digital-marketing-meeting.jpg");
+    background-image: url("images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
   }
@@ -82,7 +82,7 @@
     height: 100%;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
     background-color: #2589bd;
-    background-image: url("/Users/hripsimetepelikian/Desktop/refactor-assignment/images/lead-generation.png");
+    background-image: url("images/lead-generation.png");
   }
   
   .benefit-lead,
